@@ -1,6 +1,9 @@
 Hi, I’m Brigit Melbride
+
 I’m interested in Data Science and django
+
 I’m currently learning Machine Learning
+
 Pronouns: her/she
 
 

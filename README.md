@@ -1,4 +1,4 @@
-Hi, I’m Brigit Melbride
+Hi, I’m Brigit Melbride.
 
 I’m interested in Data Science and django
 

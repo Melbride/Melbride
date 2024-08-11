@@ -15,6 +15,6 @@ I’m currently focused on learning Machine Learning, experimenting with differe
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/brigit-melbride-43b8232b7/)
-- Twitter
-- GitHub
+- [Twitter](https://x.com/b_melbride)
+
 Thanks for stopping by!

@@ -1,13 +1,25 @@
-Hi, I’m Brigit Melbride.
+# Hi, I’m Brigit Melbride
+Welcome to my GitHub profile!
 
-I’m interested in Data Science and django
+## About Me
+I’m passionate about Data Science and Django. Currently, I am diving into Machine Learning and working on various projects to enhance my skills and knowledge in this field.
 
-I’m currently learning Machine Learning
+### My Interests
+- Data Science: Exploring data, uncovering insights, and building models.
+- Django: Developing web applications with Python’s powerful web framework.
+- Machine Learning: Learning and applying algorithms to solve real-world problems.
+#### Pronouns
+- Her/She
+#### What I’m Working On
+I’m currently focused on learning Machine Learning, experimenting with different models, and working on projects that integrate data science and web development. Feel free to check out my repositories to see what I’ve been working on!
 
-Pronouns: her/she
+# Projects
+- Here are some of the projects I’m excited about:
 
-
-<!---
-Melbride/Melbride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Community Crisis Communication Platform: A Django-based application for managing crisis communication.
+- Weather Data Analysis: An analysis of weather data to extract insights and visualize trends.
+### Connect with Me
+- LinkedIn
+- Twitter
+- GitHub
+Thanks for stopping by!

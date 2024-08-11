@@ -14,7 +14,7 @@ I’m passionate about Data Science and Django. Currently, I am diving into Mach
 I’m currently focused on learning Machine Learning, experimenting with different models, and working on projects that integrate data science and web development. Feel free to check out my repositories to see what I’ve been working on!
 
 ### Connect with Me
-- LinkedIn'https://www.linkedin.com/in/brigit-melbride-43b8232b7/'
+- [LinkedIn](https://www.linkedin.com/in/brigit-melbride)
 - Twitter
 - GitHub
 Thanks for stopping by!

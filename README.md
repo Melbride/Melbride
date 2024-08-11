@@ -13,11 +13,6 @@ I’m passionate about Data Science and Django. Currently, I am diving into Mach
 #### What I’m Working On
 I’m currently focused on learning Machine Learning, experimenting with different models, and working on projects that integrate data science and web development. Feel free to check out my repositories to see what I’ve been working on!
 
-# Projects
-- Here are some of the projects I’m excited about:
-
-- Community Crisis Communication Platform: A Django-based application for managing crisis communication.
-- Weather Data Analysis: An analysis of weather data to extract insights and visualize trends.
 ### Connect with Me
 - LinkedIn
 - Twitter
